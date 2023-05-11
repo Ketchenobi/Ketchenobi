@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ketchen Obi
 - 👀 I’m interested in reading and writing
 - 🌱 I’m currently a highschooler
-- 💞️ I’m looking to collaborate on loots of projects
+- 💞️ I’m looking to collaborate on lots of projects
 - 📫 Reach me at ketchenobimayuk@gmail.com 
 
 <!---
