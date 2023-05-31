@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ketchen Obi
-- 👀 I’m interested in reading and writing
+- 👀 I’m interested in reading, writing and researching
 - 🌱 I’m currently a student
 - 💞️ I’m looking to collaborate on lots of projects
 - 📫 Reach me at ketchenobimayuk@gmail.com 
