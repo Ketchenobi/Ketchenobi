@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ketchen Obi
-- 👀 I’m interested in reading, writing and researching
+- 👀 I’m interested in learning and having fun.
 - 🌱 I’m currently a student
-- 💞️ I’m looking to collaborate on lots of projects
-- 📫 Reach me at ketchenobimayuk@gmail.com 
+- 💞️ I’m looking to collaborate on any fun projects
+  
 
 <!---
 Ketchenobi/Ketchenobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
